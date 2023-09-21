@@ -6,9 +6,9 @@ Last War Manager (LWM) is a Tampermonkey script for the [Last War Browsergame](h
 
 LWM uses the [Tampermonkey](https://tampermonkey.net/) extension that's available for all major browsers. Grab Tampermonkey and then install the script from one of the following sources:
 
-- [OpenUserJS](https://openuserjs.org/scripts/j0shi82/Last_War_Manager)
-- [GreaseFork](https://greasyfork.org/en/scripts/379871-last-war-manager)
-- [GitHub](https://raw.githubusercontent.com/j0Shi82/last-war-manager/master/dist/last-war-manager.user.js)
+- [OpenUserJS(old)](https://openuserjs.org/scripts/j0shi82/Last_War_Manager)
+- [GreaseFork(old)](https://greasyfork.org/en/scripts/379871-last-war-manager)
+- [GitHub(this)](https://raw.githubusercontent.com/mutanwulf/last-war-manager/master/dist/last-war-manager.user.js)
 
 ## Mobile Restrictions
 
@@ -16,7 +16,7 @@ Currently LWM is only usable on Android using the FireFox Nightly Edition. Follo
 
 # Feedback & Suggestions
 
-A German feedback thread can be found on the [official message board](http://forum.last-war.de/viewtopic.php?f=4&t=967)) of the game. You can also post [issues on GitHub](https://github.com/j0Shi82/last-war-manager/issues). Please stick to English there.
+A German feedback thread can be found on the [official message board](http://forum.last-war.de/viewtopic.php?f=4&t=967)) of the game. You can also post [issues on GitHub](https://github.com/mutanwulf/last-war-manager/issues). Please stick to English there.
 
 # Screenshots
 
