@@ -1,22 +1,22 @@
 // ==UserScript==
 // @name          Last War Manager
-// @author        j0Shi <psycho.j0shi@gmail.com>
-// @namespace     https://github.com/j0Shi82/
-// @homepageURL   https://github.com/j0Shi82/last-war-manager
+// @author        j0Shi <psycho.j0shi@gmail.com> mutanwulf <mwulf12@gmx.net>
+// @namespace     https://github.com/mutanwulf/
+// @homepageURL   https://github.com/mutanwulf/last-war-manager
 // @description   Some tweaking to the Last War UI and environment
 // @license       GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
-// @updateURL     https://raw.githubusercontent.com/j0Shi82/last-war-manager/master/dist/last-war-manager.user.js
-// @downloadURL   https://raw.githubusercontent.com/j0Shi82/last-war-manager/master/dist/last-war-manager.user.js
-// @supportURL    https://github.com/j0Shi82/last-war-manager/issues
+// @updateURL     https://raw.githubusercontent.com/mutanwulf/last-war-manager/master/dist/last-war-manager.user.js
+// @downloadURL   https://raw.githubusercontent.com/mutanwulf/last-war-manager/master/dist/last-war-manager.user.js
+// @supportURL    https://github.com/mutanwulf/last-war-manager/issues
 // @match         http*://*.last-war.de/main.php*
 // @match         http*://*.last-war.de/main-mobile.php*
 // @match         http*://*.last-war.de/planetenscanner_view.php*
 // @match         http*://*.last-war.de/view/content/new_window/observationen_view.php*
-// @icon          https://raw.githubusercontent.com/j0Shi82/last-war-manager/0814103384c9be78cc28611fd973b5a7fdfdbb19/assets/logo-small.png
+// @icon          https://raw.githubusercontent.com/mutanwulf/last-war-manager/0814103384c9be78cc28611fd973b5a7fdfdbb19/assets/logo-small.png
 // @grant         GM.getValue
 // @grant         GM.setValue
 // @grant         GM_getValue
 // @grant         GM_setValue
 // @run-at        document-start
-// @version       1.3.5
+// @version       1.4.0
 // ==/UserScript==
